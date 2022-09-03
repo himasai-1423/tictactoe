@@ -1,5 +1,5 @@
-# [Project Link](https://himasai-1423-tictacgame.surge.sh/)
-
+# [Check out the project here](https://himasai-1423-tictacgame.surge.sh/)
+Click on the above link to check the project.
 
 # Nano React App Default Javascript Template
 
